@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "LogicAppUri": "https://prod-09.westeurope.logic.azure.com:443/workflows/<UUID>/triggers/HTTP/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2FHTTP%2Frun&sv=1.0&sig=<SIG>",
+    "telephoneNumber": "+3123456789",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccount25day962e;AccountKey=<KEY>;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "<GUID>",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccount25day962e;AccountKey=<KEY>;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "day-29e19",
+    "WEBSITE_TIME_ZONE": "W. Europe Standard Time"
+  },
+  "ConnectionStrings": {}
+}
